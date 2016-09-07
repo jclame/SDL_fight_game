@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1473174127 source:e:\c i write\realgame\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"Timer.h"
+	<string>
+	"global.h"
+	"Foo.h"
+
+1400091902 source:e:\c i write\realgame\functs.cpp
+	"stdbool.h"
+	<string.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1401455345 e:\c i write\realgame\functs.h
+	"stdbool.h"
+	<string.h>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+
+1402847103 e:\c i write\realgame\timer.h
+	"SDL/SDL.h"
+
+1402845128 source:e:\c i write\realgame\timer.cpp
+	"Timer.h"
+
+1402895830 e:\c i write\realgame\anime.h
+	"SDL/SDL.h"
+	"type.h"
+	<string>
+	"SDL/SDL_image.h"
+
+1402848253 e:\c i write\realgame\type.h
+	"SDL/SDL.h"
+
+1402895830 source:e:\c i write\realgame\anime.cpp
+	"Anime.h"
+
+1411658204 source:e:\c i write\realgame\foo.cpp
+	"foo.h"
+
+1473174055 e:\c i write\realgame\foo.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL_extern.h"
+	"global.h"
+
+1473173631 e:\c i write\realgame\sdl_extern.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<iostream>
+
+1473174081 e:\c i write\realgame\include\global.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<iostream>
+
+1473175167 e:\c i write\realgame\include\sdl_extern.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<iostream>
+	"global.h"
+
+1473173856 source:e:\c i write\realgame\src\global.cpp
+	"global.h"
+
+1473175169 source:e:\c i write\realgame\src\sdl_extern.cpp
+	"SDL_extern.h"
+
+1411658204 source:e:\c i write\realgame\src\foo.cpp
+	"foo.h"
+
+1473174055 e:\c i write\realgame\include\foo.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL_extern.h"
+	"global.h"
+
+1402845128 source:e:\c i write\realgame\src\timer.cpp
+	"Timer.h"
+
+1402847103 e:\c i write\realgame\include\timer.h
+	"SDL/SDL.h"
+
+1473180486 source:e:\c i write\realgame\src\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"Timer.h"
+	<string>
+	"global.h"
+	"Foo.h"
+
